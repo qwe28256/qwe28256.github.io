@@ -1,0 +1,73 @@
+toggleMenu:
+    other: 切換選單
+
+darkMode:
+    other: 深色模式
+
+list:
+    page:
+        one: "第 {{ .Count }} 页"
+        other: "第 {{ .Count }} 页"
+
+    section:
+        other: Section
+
+    subsection:
+        one: Subsection
+        other: Subsections
+
+article:
+    back:
+        other: 返回
+
+    tableOfContents:
+        other: 目录
+
+    relatedContent:
+        other: 相关內容
+
+    lastUpdatedOn:
+        other: 上次改過於
+
+    readingTime:
+        one: "需要 {{ .Count }} 分钟阅读"
+        other: "需要 {{ .Count }} 分钟阅读"
+
+notFound:
+    title:
+        other: OvO 404 !
+
+    subtitle:
+        other: 页面不存在
+
+widget:
+    archives:
+        title:
+            other: 归档
+
+        more:
+            other: 更多
+
+    tagCloud:
+        title:
+            other: 标签
+    categoriesCloud:
+        title:
+            other: Categories
+
+search:
+    title:
+        other: 搜索
+
+    placeholder:
+        other: Type 關鍵字...
+
+    resultTitle:
+        other: "#PAGES_COUNT pages (#TIME_SECONDS seconds)"
+
+footer:
+    builtWith:
+        other: Built with {{ .Generator }}
+
+    designedBy:
+        other: 主題 {{ .Theme }} 由 {{ .DesignedBy }} 設計

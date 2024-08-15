@@ -1,0 +1,4 @@
+baseURL = 'https://me.mcstark.edu.eu.org'
+languageCode = 'zh-cn'
+title = 'OvO,s Blog'
+theme = 'stack'
